@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "wojciech.napiorkowski.pl",
     "description": "",
-    "home_page_url": "https://wojciech.napiorkowski.pl",
-    "feed_url": "https://wojciech.napiorkowski.pl/feed.json",
+    "home_page_url": "https://wojciechnapiorkowski.pl",
+    "feed_url": "https://wojciechnapiorkowski.pl/feed.json",
     "user_comment": "",
     "author": {
         "name": "Wojciech Napiórkowski"
     },
     "items": [
         {
-            "id": "https://wojciech.napiorkowski.pl/home.html",
-            "url": "https://wojciech.napiorkowski.pl/home.html",
+            "id": "https://wojciechnapiorkowski.pl/home.html",
+            "url": "https://wojciechnapiorkowski.pl/home.html",
             "title": "Home",
             "author": {
                 "name": "Wojciech Napiórkowski"

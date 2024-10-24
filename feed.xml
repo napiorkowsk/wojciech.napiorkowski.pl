@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>wojciech.napiorkowski.pl</title>
-    <link href="https://wojciech.napiorkowski.pl/feed.xml" rel="self" />
-    <link href="https://wojciech.napiorkowski.pl" />
+    <link href="https://wojciechnapiorkowski.pl/feed.xml" rel="self" />
+    <link href="https://wojciechnapiorkowski.pl" />
     <updated>2024-10-24T11:47:34+02:00</updated>
     <author>
         <name>Wojciech Napiórkowski</name>
     </author>
-    <id>https://wojciech.napiorkowski.pl</id>
+    <id>https://wojciechnapiorkowski.pl</id>
 
     <entry>
         <title>Home</title>
         <author>
             <name>Wojciech Napiórkowski</name>
         </author>
-        <link href="https://wojciech.napiorkowski.pl/home.html"/>
-        <id>https://wojciech.napiorkowski.pl/home.html</id>
+        <link href="https://wojciechnapiorkowski.pl/home.html"/>
+        <id>https://wojciechnapiorkowski.pl/home.html</id>
 
         <updated>2024-10-24T11:47:34+02:00</updated>
             <summary></summary>
