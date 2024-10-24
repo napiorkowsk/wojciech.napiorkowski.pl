@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wojciech.napiorkowski.pl/sitemap.xml
